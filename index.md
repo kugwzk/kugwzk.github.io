@@ -31,7 +31,7 @@ Full publications can be found in [[Semantic Scholar](https://www.semanticschola
 
 * AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials <br>
 Yiheng Xu, Dunjie Lu, Zhennan Shen, Junli Wang, **Zekun Wang**, Yuchen Mao, Caiming Xiong, Tao Yu <br>
-**ICLR 2025 Spotlight**<br>
+**ICLR 2025 Spotlight (Top 5%)**<br>
 [[pdf]](https://arxiv.org/abs/2412.09605)
 [[project]](https://agenttrek.github.io) <br>
 
@@ -42,7 +42,7 @@ Yuxin Wang\*, Minghua Ma\*, **Zekun Wang**\*, Jingchang Chen, Huiming Fan, Lipin
 [[project]](https://github.com/wyxscir/CFSP) 
 <br>
 
-* Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-ofExpert Models <br>
+* Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-of Expert Models <br>
 Zihan Qiu, Zeyu Huang, Bo Zheng, Kaiyue Wen, **Zekun Wang**, Rui Men, Ivan Titov, Dayiheng Liu, Jingren Zhou, Junyang Lin <br>
 **Preprint** 2025 <br>
 [[pdf]](https://arxiv.org/abs/2501.11873)
