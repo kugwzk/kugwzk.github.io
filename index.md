@@ -11,6 +11,7 @@ My research interests have evolved to focus on developing:
 
 
 I am particularly interested in exploring the intrinsic relationship between model (efficient) architecture and its performance, as well as how to unlock its potential in real-world scenarios.
+**I’m actively seeking full-time positions related to LLM or MLLM. Feel free to reach out—I’d love to connect!**
 
  
 ### News:
