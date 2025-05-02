@@ -15,13 +15,21 @@ I am particularly interested in exploring the intrinsic relationship between mod
 
  
 ### News:
-
-* 🔥🔥 Two papers have been accepted by ICLR'25. See you in Singapore!
-* 🔥 One paper has been accepted by COLING'25. See you in Abu Dhabi, UAE! 
-* 🚀 [Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115) is released.
+* 🎉 Excited to share that our paper **Aguvis** was accepted by ICML 2025! Can't wait to see everyone in Vancouver! 🌲
+* 🔥 Our new Qwen3 series foundation models are out! Read the [blog](https://qwenlm.github.io/blog/qwen3/) 📄, try the [chat](https://chat.qwen.ai/) 💬, and get the [🤗 model](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f).
+<!-- * 🔥🔥 Two papers have been accepted by ICLR'25. See you in Singapore! -->
+<!-- * 🔥 One paper has been accepted by COLING'25. See you in Abu Dhabi, UAE!  -->
+<!-- * 🚀 [Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115) is released. -->
 
 ### Selected Publications:
 Full publications can be found in [[Semantic Scholar](https://www.semanticscholar.org/author/Zekun-Wang/2108727290)] [[Google Scholar](https://scholar.google.com/citations?user=BrTJVdEAAAAJ)] (\* denotes equal contributions.)
+
+* Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction <br>
+Yiheng Xu\*, **Zekun Wang**\*, Junli Wang\*, Dunjie Lu, Tianbao Xie, Amrita Saha, Doyen Sahoo, Tao Yu, Caiming Xiong <br>
+**ICML** 2025 <br>
+[[pdf]](https://arxiv.org/abs/2412.04454)
+[[project]](https://aguvis-project.github.io/) 
+<br>
 
 * Improved Diffusion-based Generative Model with Better Adversarial Robustness <br>
 **Zekun Wang**\*, Mingyang Yi\*, Shuchen Xue, Zhenguo Li, Ming Liu, Bing Qin, Zhi-Ming Ma<br>
@@ -49,13 +57,6 @@ Zihan Qiu, Zeyu Huang, Bo Zheng, Kaiyue Wen, **Zekun Wang**, Rui Men, Ivan Titov
 [[pdf]](https://arxiv.org/abs/2501.11873)
 <br>
 
-
-* Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction <br>
-Yiheng Xu\*, **Zekun Wang**\*, Junli Wang\*, Dunjie Lu, Tianbao Xie, Amrita Saha, Doyen Sahoo, Tao Yu, Caiming Xiong <br>
-**Preprint** 2024 <br>
-[[pdf]](https://arxiv.org/abs/2412.04454)
-[[project]](https://aguvis-project.github.io/) 
-<br>
 
 * Qwen2.5 Technical Report <br>
 **Qwen Team** <br>
