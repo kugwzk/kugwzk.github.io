@@ -22,7 +22,7 @@ I am particularly interested in exploring the intrinsic relationship between mod
 <!-- * 🚀 [Qwen2.5 Technical Report](https://arxiv.org/abs/2412.15115) is released. -->
 
 ### Selected Publications:
-Full publications can be found in [[Semantic Scholar](https://www.semanticscholar.org/author/Zekun-Wang/2108727290)] [[Google Scholar](https://scholar.google.com/citations?user=BrTJVdEAAAAJ)] (\* denotes equal contributions.)
+Full publications can be found in [[Semantic Scholar](https://www.semanticscholar.org/author/Zekun-Wang/2108727290)] [[Google Scholar](https://scholar.google.com/citations?user=BrTJVdEAAAAJ)] (\* denotes equal contributions.† indicates corresponding author)
 
 * Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction <br>
 Yiheng Xu\*, **Zekun Wang**\*, Junli Wang\*, Dunjie Lu, Tianbao Xie, Amrita Saha, Doyen Sahoo, Tao Yu, Caiming Xiong <br>
@@ -45,7 +45,7 @@ Yiheng Xu, Dunjie Lu, Zhennan Shen, Junli Wang, **Zekun Wang**, Yuchen Mao, Caim
 [[project]](https://agenttrek.github.io) <br>
 
 * CFSP: An Efficient Structured Pruning Framework for LLMs with Coarse-to-Fine Activation Information <br>
-Yuxin Wang\*, Minghua Ma\*, **Zekun Wang**\*, Jingchang Chen, Huiming Fan, Liping Shan, Qing Yang, Dongliang Xu, Ming Liu, Bing Qin. <br>
+Yuxin Wang\*, Minghua Ma\*, **Zekun Wang**\*†, Jingchang Chen, Huiming Fan, Liping Shan, Qing Yang, Dongliang Xu, Ming Liu, Bing Qin. <br>
 **COLING 2025**<br>
 [[pdf]](https://aclanthology.org/2025.coling-main.626.pdf)
 [[project]](https://github.com/wyxscir/CFSP) 
