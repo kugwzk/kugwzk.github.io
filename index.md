@@ -15,6 +15,8 @@ I am particularly interested in exploring the intrinsic relationship between mod
 
  
 ### News:
+* 🎉🎉 Two papers have been accepted by ACL'25 🚪. See you in Vienna 🎻!
+* 📄 The Qwen3 Technical Report is officially out! Dive into the comprehensive details [here](https://arxiv.org/abs/2505.09388).
 * 🎉 Excited to share that our paper **Aguvis** was accepted by ICML 2025! Can't wait to see everyone in Vancouver! 🌲
 * 🔥 Our new Qwen3 series foundation models are out! Read the [blog](https://qwenlm.github.io/blog/qwen3/) 📄, try the [chat](https://chat.qwen.ai/) 💬, and get the [🤗 model](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f).
 <!-- * 🔥🔥 Two papers have been accepted by ICLR'25. See you in Singapore! -->
@@ -23,6 +25,34 @@ I am particularly interested in exploring the intrinsic relationship between mod
 
 ### Selected Publications:
 Full publications can be found in [[Semantic Scholar](https://www.semanticscholar.org/author/Zekun-Wang/2108727290)] [[Google Scholar](https://scholar.google.com/citations?user=BrTJVdEAAAAJ)] (\* denotes equal contributions.† indicates corresponding author)
+
+* Qwen3 Technical Report <br>
+**Core Contributor** <br>
+**Technical Report** <br>
+[[pdf]](https://arxiv.org/abs/2505.09388)
+[[collection]](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f)
+<br>
+
+* Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free
+Zihan Qiu\*, **Zekun Wang**\*, Bo Zheng\*, Zeyu Huang\*, Kaiyue Wen, Songlin Yang, Rui Men, Le Yu, Fei Huang, Suozhi Huang, Dayiheng Liu, Jingren Zhou, Junyang Lin <br>
+**Preprint** 2025 <br>
+[[pdf]](https://arxiv.org/abs/2505.06708)
+[[models]](https://huggingface.co/QwQZh/gated_attention)
+[[code]](https://github.com/qiuzh20/gated_attention)
+<br>
+
+
+* EffiVLM-Bench: A Comprehensive Benchmark for Evaluating Training-Free Acceleration in Large Visual-Languge Models <br>
+**Zekun Wang**\*, MingHua Ma\*, Zexin Wang\*, Rongchuan Mu\*, Ming Liu, Bing Qin <br>
+**ACL** 2025 <br>
+Code is coming soon!
+<br>
+
+* Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-of Expert Models <br>
+Zihan Qiu, Zeyu Huang, Bo Zheng, Kaiyue Wen, **Zekun Wang**, Rui Men, Ivan Titov, Dayiheng Liu, Jingren Zhou, Junyang Lin <br>
+**ACL** 2025 <br>
+[[pdf]](https://arxiv.org/abs/2501.11873)
+<br>
 
 * Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction <br>
 Yiheng Xu\*, **Zekun Wang**\*, Junli Wang\*, Dunjie Lu, Tianbao Xie, Amrita Saha, Doyen Sahoo, Tao Yu, Caiming Xiong <br>
@@ -37,7 +67,6 @@ Yiheng Xu\*, **Zekun Wang**\*, Junli Wang\*, Dunjie Lu, Tianbao Xie, Amrita Saha
 [[pdf]](https://kugwzk.github.io/assets/pubs/iclr/2025/at_diff.pdf) <br>
 
 
-
 * AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials <br>
 Yiheng Xu, Dunjie Lu, Zhennan Shen, Junli Wang, **Zekun Wang**, Yuchen Mao, Caiming Xiong, Tao Yu <br>
 **ICLR 2025 Spotlight (Top 5%)**<br>
@@ -50,13 +79,6 @@ Yuxin Wang\*, Minghua Ma\*, **Zekun Wang**\*†, Jingchang Chen, Huiming Fan, Li
 [[pdf]](https://aclanthology.org/2025.coling-main.626.pdf)
 [[project]](https://github.com/wyxscir/CFSP) 
 <br>
-
-* Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-of Expert Models <br>
-Zihan Qiu, Zeyu Huang, Bo Zheng, Kaiyue Wen, **Zekun Wang**, Rui Men, Ivan Titov, Dayiheng Liu, Jingren Zhou, Junyang Lin <br>
-**Preprint** 2025 <br>
-[[pdf]](https://arxiv.org/abs/2501.11873)
-<br>
-
 
 * Qwen2.5 Technical Report <br>
 **Qwen Team** <br>
