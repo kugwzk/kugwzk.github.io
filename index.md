@@ -29,14 +29,14 @@ Full publications can be found in [[Semantic Scholar](https://www.semanticschola
 * Qwen3 Technical Report <br>
 **Core Contributor** <br>
 **Technical Report** <br>
-[[pdf]](https://arxiv.org/abs/2505.09388)
+[[paper]](https://arxiv.org/abs/2505.09388)
 [[collection]](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f)
 <br>
 
 * Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free
 Zihan Qiu\*, **Zekun Wang**\*, Bo Zheng\*, Zeyu Huang\*, Kaiyue Wen, Songlin Yang, Rui Men, Le Yu, Fei Huang, Suozhi Huang, Dayiheng Liu, Jingren Zhou, Junyang Lin <br>
 **Preprint** 2025 <br>
-[[pdf]](https://arxiv.org/abs/2505.06708)
+[[paper]](https://arxiv.org/abs/2505.06708)
 [[models]](https://huggingface.co/QwQZh/gated_attention)
 [[code]](https://github.com/qiuzh20/gated_attention)
 <br>
@@ -45,7 +45,8 @@ Zihan Qiu\*, **Zekun Wang**\*, Bo Zheng\*, Zeyu Huang\*, Kaiyue Wen, Songlin Yan
 * EffiVLM-Bench: A Comprehensive Benchmark for Evaluating Training-Free Acceleration in Large Visual-Languge Models <br>
 **Zekun Wang**\*, MingHua Ma\*, Zexin Wang\*, Rongchuan Mu\*, Ming Liu, Bing Qin <br>
 **ACL** 2025 <br>
-Code is coming soon!
+[[paper]](https://arxiv.org/abs/2506.00479)
+[[project]](https://effivlm-bench.github.io/)
 <br>
 
 * Demons in the Detail: On Implementing Load Balancing Loss for Training Specialized Mixture-of Expert Models <br>
