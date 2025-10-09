@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 Hi, my name is Zekun Wang (汪泽堃 in Chinese). I am a Researcher in Qwen @ Alibaba Group. 
-I earned earned my PhD degree from SCIR @ Harbin Institute of Technology.
+I earned my PhD degree from SCIR @ Harbin Institute of Technology.
 
 My research interests have evolved to focus on developing: 
 * **Model/Data-Efficiency & Acceleration**: Efficient architecture for XFMRs or **hybrid** ones; Pruning, distillation, quantization etc. to reduce model size and speedup inference; Efficient training LLMs/MLLMs with a small cost (time or data).
