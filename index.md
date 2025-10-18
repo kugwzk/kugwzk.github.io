@@ -31,6 +31,7 @@ Zihan Qiu\*, **Zekun Wang**\*, Bo Zheng\*, Zeyu Huang\*, Kaiyue Wen, Songlin Yan
 <br>
 
 * Qwen3-Next: Towards Ultimate Training & Inference Efficiency <br>
+**Core Contributor** <br>
 [[blog]](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list)
 [[🤗 model]](https://huggingface.co/collections/Qwen/qwen3-next-68c25fd6838e585db8eeea9d)<br>
 
