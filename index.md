@@ -3,7 +3,6 @@ layout: homepage
 ---
 
 Hi, my name is Zekun Wang (汪泽堃 in Chinese). I am a Researcher in Qwen @ Alibaba Group. 
-I earned my PhD degree from Harbin Institute of Technology.
 
 My research interests have evolved to focus on developing: 
 * **Model/Data-Efficiency & Acceleration**: Efficient architecture for XFMRs or **hybrid** ones; Pruning, distillation, quantization etc. to reduce model size and speedup inference; Efficient training LLMs/MLLMs with a small cost (time or data).
@@ -16,12 +15,14 @@ I am particularly interested in exploring the intrinsic relationship between mod
 
  
 ### News:
-* 🏆 Thrilled to announce that our work, **Gated attention**, has won the Best Paper Award at NeurIPS 2025!
+<!-- * 🏆 Thrilled to announce that our work, **Gated attention**, has won the Best Paper Award at NeurIPS 2025!
 * 🎉 Two papers have been accepted by NeurIPS 2025. **Gated attention is selected as an oral presentation!**
-* ⚡️ Our new Qwen3-Next models are out! Read the [blog](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list) 📄, try the [chat](https://chat.qwen.ai/) 💬, and get the [🤗 model](https://huggingface.co/collections/Qwen/qwen3-next-68c25fd6838e585db8eeea9d). -->
+* ⚡️ Our new Qwen3-Next models are out! Read the [blog](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list) 📄, try the [chat](https://chat.qwen.ai/) 💬, and get the [🤗 model](https://huggingface.co/collections/Qwen/qwen3-next-68c25fd6838e585db8eeea9d). --> -->
 
 ### Selected Publications:
 Full publications can be found in [[Semantic Scholar](https://www.semanticscholar.org/author/Zekun-Wang/2108727290)] [[Google Scholar](https://scholar.google.com/citations?user=BrTJVdEAAAAJ)] (\* denotes equal contributions.† indicates corresponding author)
+
+
 
 * Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free
 Zihan Qiu\*, **Zekun Wang**\*, Bo Zheng\*, Zeyu Huang\*, Kaiyue Wen, Songlin Yang, Rui Men, Le Yu, Fei Huang, Suozhi Huang, Dayiheng Liu, Jingren Zhou, Junyang Lin <br>
